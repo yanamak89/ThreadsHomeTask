@@ -1,6 +1,4 @@
-## Threads 
-
-
+## [Threads](https://learn.microsoft.com/en-us/dotnet/api/system.threading.thread?view=net-8.0)
 
 ## Task 1: Falling Character Chains
 
@@ -26,16 +24,4 @@ Using Visual Studio, create a Console Application project. Write a program where
 
 ## Task 5: Study Basic Concepts and Constructs
 
-Learn the fundamental concepts and constructs covered in the lesson, such as:
-- Working with console output and colors.
-- Random number generation.
-- String and character manipulation.
-- Recursion.
-- Multithreading (if covered in Task 4).
-
----
-
-### Example Files (attached to project solution):
-- [example1.png](example1.png)
-- [example2.png](example2.png)
-
+Learn the fundamental concepts and constructs covered in the lesson, s
